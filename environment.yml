@@ -1,4 +1,4 @@
-name: <GITHUB_REPOSITORY>
+name: ml-proj-test
 channels:
   - anaconda
   - pytorch
